@@ -77,7 +77,13 @@ Finally when user completes the puzzle a finish screen is displayed.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-ADMIN PANEL:
+ADMIN PANEL:------
+
+
+     link for admin panel-----
+     https://web-production-0acf.up.railway.app/adminAuth
+     
+     
 The admin panel can be accessed by the
                                       username:ayushsajwan19@gmail.com
                                       password:RSia+1
