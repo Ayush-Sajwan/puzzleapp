@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(36, 40, 40);
+
+}
+.heading h1{
+    font-size: 3em;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+}
+.cleft{
+    width: 40%;
+    height: 80vh;
+    padding: 10px;
+    background-color: burlywood;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cleft a{
+    width: 80%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.cleft a .imgcont img{
+    max-width: 100%;
+}
+
+.cleft .imgcont img{
+    width: 100%;
+}
+.cright{
+    width:60%;
+    height: 80vh;
+    padding: 10px;
+    background-color:darkkhaki;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cright .para{
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cright .para button{
+    font-size: 30px;
+    border: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:darkkhaki;
+}
+
+.cright .para button:hover{
+    background-color: white;
+}
+
+.cright .books{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+.cright .books input{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.cright .books button{
+
+    margin-top:20px;
+    width: 30%;
+    font-size:20px;
+    border-radius: 10px;
+    
+
+}
+
+.bottom {
+    background-color: rgb(36, 40, 40);
+    color: aliceblue;
+    font-size: 20px;
+    height:10vh;
+    padding: 20px;
+}
