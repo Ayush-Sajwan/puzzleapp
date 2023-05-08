@@ -35,11 +35,11 @@ Stage 1: Intro Page:
 
 Stage 2: Breakfast Stage:
   In this stage there are 5 questions:--
-    Marks in Last Test:20
-    Dish 1:Gohan
-    Dish 2:Miso Shiru
-    Dish 3:Natto
-    Dish 4:Tamago Kake Gohan
+    Marks in Last Test:20--
+    Dish 1:Gohan--
+    Dish 2:Miso Shiru--
+    Dish 3:Natto--
+    Dish 4:Tamago Kake Gohan--
     
     User can find answers to above question in following ways:
        Marks: Clue to this was in first stage when user clicks on say hi button below Nobita image.
@@ -47,9 +47,9 @@ Stage 2: Breakfast Stage:
   
  Stage 3:Tv Show Stage:
     In this stage there are 3 questions:--
-       Book 1:GK
-       Book 2:Science 
-       Book 3:Maths
+       Book 1:GK--
+       Book 2:Science--
+       Book 3:Maths--
        
        
        User can find answers to above questions by finding two clues hidden in this stage webpage.
@@ -59,11 +59,11 @@ Stage 2: Breakfast Stage:
          
 Stage 4:School Stage:
      In this stage there is set of questions of GK answers to which are hidden in links in text of questions.
-     Following are answers to questions in order:
-         Number of islands:14125
-         Capital of Japan:Tokyo
-         Nuclear bomb drop year:1945
-         Tsumani Hit year:2011
+     Following are answers to questions in order:--
+         Number of islands:14125--
+         Capital of Japan:Tokyo--
+         Nuclear bomb drop year:1945--
+         Tsumani Hit year:2011--
          
      
      This stage also contains additional clue for next stage that is Book Price that is Rs 97
@@ -71,7 +71,7 @@ Stage 4:School Stage:
  
  Stage 5:Home Stage:
      This is ending stage of puzzle with only one question that is cost of book whose answer was in stage 4 problem description.
-     Cost of Book: Rs97
+     --Cost of Book: Rs97
      
 Finally when user completes the puzzle a finish screen is displayed.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
